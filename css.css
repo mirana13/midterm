@@ -1,0 +1,192 @@
+.header {
+    padding: 30px;
+    background: #5E5E62;
+  }
+  ul {
+    font-size: 20px;
+    list-style: none; 
+    display: block; 
+    width: 870px; 
+    margin: 0 auto;
+
+  }
+  .yeap{
+    color: white;
+    font-size: 15px;
+    font-family: "Courier New", Courier, monospace;
+  }
+
+  li {
+    float: left; 
+    margin:5px; 
+    font-family: "Courier New", Courier, monospace;
+    font-size: 30px;
+    padding: 10px;
+    position: relative;
+    border-bottom: 2px solid #333; 
+    text-align: left;
+    word-spacing: 6px;
+    background-color:rgb(240, 225, 186) ;
+    -webkit-transition: all 0.3s ease;;
+    -moz-transition: all 0.3s ease;;
+    -o-transition: all 0.3s ease;;
+    transition: all 0.3s ease;
+  }
+  
+  li a {
+   color: rgb(77, 77, 75);
+   text-decoration: none; 
+  }
+  
+  li a:hover {
+    background-color: rgb(223, 204, 153);
+  }
+
+
+  * {
+    font-family: Roboto;
+  }
+  
+  .footer-distributed{
+    background: rgb(204, 129, 85);
+    box-shadow: 0 1px 1px 0 rgba(170, 153, 153, 0.12);
+    box-sizing: border-box;
+    width: 100%;
+    font: bold 16px sans-serif;
+    text-align: left;
+    padding: 50px 60px 40px;
+    overflow: hidden;
+  }
+  
+  section {
+    width: 100%;
+    display: inline-block;
+    background: #ccc;
+    height: 60vh;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+    text-decoration: underline;
+  }
+
+  
+  .footer-distributed .footer-left{
+    float: left;
+  }
+  
+  .footer-distributed h3{
+    color:  #ffffff;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 50px;
+    margin: 0 0 10px;
+    font-weight: normal;
+  }
+  
+  .footer-distributed h3 span{
+    color:  #6a6c70;
+  }
+
+  .footer-distributed .footer-company-name{
+    color:  #eef0f0;
+    font-size: 22px;
+    font-weight: normal;
+    margin: 0;
+    font-family:"Courier New", Courier, monospace;
+  }
+  .text{
+    font-weight: normal;
+    font-family: "Courier New", Courier, monospace;
+    color: white;
+    font-size: 22px;
+  }
+  
+  .footer-distributed form input,
+  .footer-distributed form textarea{
+    display: block;
+    border-radius: 3px;
+    box-sizing: border-box;
+    background-color: rgb(240, 225, 186);
+    box-shadow: 0 1px 0 0 rgba(255, 255, 255, 0.1);
+    border: none;
+    resize: none;
+  
+    font: inherit;
+    font-size: 14px;
+    font-weight: normal;
+    color:  #d1d2d2;
+  
+    width: 400px;
+    padding: 18px;
+  }  
+  .footer-distributed form input{
+    height: 55px;
+    margin-bottom: 15px;
+  }
+  
+  .footer-distributed form textarea{
+    height: 100px;
+    margin-bottom: 20px;
+  }
+  
+  .footer-distributed form button{
+    border-radius: 3px;
+    background-color:  #d19973;
+    color: #ffffff;
+    border: 0;
+    padding: 15px 50px;
+    font-weight: bold;
+    float: right;
+  }
+  
+  
+  .fa {
+    padding: 20px;
+    font-size: 40px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .fa-telegram {
+    background: #e8e9eb;
+    color: rgb(209, 139, 98);
+  
+  }
+
+  .fa-instagram {
+    background: #e9e6e5;
+    color: rgb(201, 131, 99);
+  
+  }
+  .fa-home {
+    background: #e8e9eb;
+    color: rgb(209, 139, 98);
+  
+  }
+
+  #right   
+{  
+  float: right;   
+  width: 150px;  
+  margin: 20px 10px 0px 0px;  
+  text-align: right;  
+     
+  background-color: #5E5E62; 
+  height: 400px;  
+}  
+#middle  
+{  
+    margin: 20px 200px 10px 600px;  
+    background-color: rgb(240, 225, 186);
+    height: 400px;  
+    text-align: center;  
+}  
+#left   
+{  
+    background-color:#fdff5e;  
+    margin: 20px 0px 0px 0px;  
+    width: 600px;  
+    float:left;  
+    height: 400px;  
+}  
+
+  
